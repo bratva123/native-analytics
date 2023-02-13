@@ -9,13 +9,28 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-picker/picker": "^2.4.8",
+    "@react-navigation/drawer": "^6.5.7",
+    "@types/jest": "^29.4.0",
+    "@types/node": "^18.13.0",
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "colorcolor": "^3.0.1",
     "expo": "~47.0.12",
     "expo-status-bar": "~1.4.2",
-    "react": "18.1.0",
-    "react-native": "0.70.5"
+    "lodash": "^4.17.21",
+    "native-echarts": "^0.5.0",
+    "react": "^18.1.0",
+    "react-color": "^2.19.3",
+    "react-native": "0.70.5",
+    "react-native-color-picker": "^0.6.0",
+    "react-native-echarts-wrapper": "^2.0.0",
+    "typescript": "^4.9.5",
+    "@types/react-native": "~0.70.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "echarts": "^5.4.1"
   },
   "private": true
 }

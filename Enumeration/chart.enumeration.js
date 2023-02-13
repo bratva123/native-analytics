@@ -1,0 +1,22 @@
+export const CHART = {
+    Line: "Line",
+    Bar: Bar,
+    Pie: Pie,
+    Scatter: "Scatter",
+    GeoMap: "GeoMap",
+    CandleStick: "CandleStick",
+    Radar: "Radar",
+    BoxPlot: "BoxPlot",
+    HeatMap: "HeatMap",
+    Graph: "Graph",
+    Lines: "Lines",
+    Tree: "Tree",
+    TreeMap: "Tree Map",
+    SunBurst: "SunBurst",
+    Parlel: "Parlel",
+    Sankey: "Sankey",
+    Funnel: "Funnel",
+    Gauge: "Gauge",
+    Callender: "Callender",
+    DataZoom: "DataZoom"
+}
